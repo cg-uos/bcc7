@@ -1,4 +1,4 @@
-# GPU isosurface raycaster of BCC volume dataset based on the 7-direction box-spline (bcc7)
+# GPU isosurface raycaster of BCC volume dataset based on the 7-direction quartic box-spline (bcc7)
 
 ## References
 1. Minho Kim, [Quartic box-spline reconstruction on the BCC lattice](https://doi.org/10.1109/TVCG.2012.130),
